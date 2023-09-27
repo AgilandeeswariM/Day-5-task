@@ -1,7 +1,7 @@
 1. For the given JSON iterate over all for loops(for, for in, for of, forEach)
 
 var json = [{
-    "name" : "agila", 
+    "name" : "agilandeeswari", 
     "place" : "chennai",
     "task" : "day 5",
     "mail": "theagi1340@gmail.com"
